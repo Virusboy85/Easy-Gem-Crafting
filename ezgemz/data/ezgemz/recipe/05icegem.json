@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cobblemon:normal_gem"
+  },
+  "result": {
+    "id": "cobblemon:ice_gem",
+    "count": 1
+  }
+}
